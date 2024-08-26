@@ -1,0 +1,42 @@
+[
+  {
+    "Позор Нации": {
+      "author": "Петр Пошляков",
+      "content_length": 320,
+      "publication": "truenation.com",
+      "description": "Статья о человеке, предавшем нацию"
+    }
+  },
+  {
+    "Восход Солнца": {
+      "author": "Дмитрий Пергн",
+      "content_length": 516,
+      "publication": "Китайская газета",
+      "description": "О том как красив восход в Китае"
+    }
+  },
+  {
+    "Как выпечь хлеб": {
+      "author": "Лиза Булкина",
+      "content_length": 150,
+      "publication": "make-bread.ru",
+      "description": "Рецепт вкусного хлеба"
+    }
+  },
+  {
+    "Заноза": {
+      "author": "Андрей Рубанков",
+      "content_length": 246,
+      "publication": "instruments.ru",
+      "description": "Как вытащить занозу"
+    }
+  },
+  {
+    "Топ-5 игр": {
+      "author": "Алексей Знатков",
+      "content_length": 170,
+      "publication": "Журнал Игромания",
+      "description": "Субъективный топ от автора"
+    }
+  }
+]
